@@ -1,0 +1,15 @@
+{
+  "name": "crud_electron_mongo",
+  "version": "1.0.0",
+  "description": "crud electron",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "npx electronmon ."
+  },
+  "author": "AFRY",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^23.1.1",
+    "mongoose": "^6.10.0"
+  }
+}
